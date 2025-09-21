@@ -13,8 +13,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>[]</p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (Говоря о духовном наследии святого Николая Японского, гость упомянул о дневнике святителя,{' '}
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a><a href="https://patriarchia.ru/article/117400?base=news">RECEIVE PARAMETER VALUE</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
